@@ -8,7 +8,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{4AF542C1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextInputAnalyser.ConsoleApp", "Clients\TextInputAnalyser.ConsoleApp\TextInputAnalyser.ConsoleApp.csproj", "{9C64A967-9F04-40FB-BEA2-F6B2C56F31DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextInputAnalyser", "Code\TextInputAnalyser\TextInputAnalyser.csproj", "{AA61207D-881D-4212-979F-72DC254ABC51}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextInputAnalyser.Library", "Code\TextInputAnalyser.Library\TextInputAnalyser.Library.csproj", "{AA61207D-881D-4212-979F-72DC254ABC51}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextInputAnalyser.Tests", "Tests\TextInputAnalyser.Tests\TextInputAnalyser.Tests.csproj", "{6BA993B7-366F-420E-90F0-EDE3BCDB697A}"
 EndProject
